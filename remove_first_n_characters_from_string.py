@@ -16,3 +16,5 @@ print("Removing the first", num, "characters from the string")
 # Creating the remove string code 
 new_word = word[num:]
 
+# Creating the code for the outcome of the program
+print("The original string is", word, "After removing characters, the new word is:", new_word)
